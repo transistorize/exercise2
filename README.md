@@ -6,4 +6,5 @@ Exercise 2
 - Modify the authors.txt file with your name, save it and stage the file.
 - Run the git status command.
 - Modify the authors file to add your github account ID after to your name. Look at the status command. What did you notice? Put the answer in the expectations.txt file.
-- Add all the files to staging, and commit all the files. Is your working directory clean?
+- Add *all* the files to staging and commit it. Is your working directory clean?
+- Challenge: Push this repository to your GitHub.
